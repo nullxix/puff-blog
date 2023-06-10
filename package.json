@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
-    "gatsby": "^2.18.12",
+    "gatsby": "^4.25.7",
     "gatsby-source-prismic": "^2.3.0-alpha.3",
     "path": "^0.12.7",
     "prismic-reactjs": "^1.2.0",
